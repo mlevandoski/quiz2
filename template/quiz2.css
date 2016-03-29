@@ -1,7 +1,7 @@
 html body {
-	font-family: 'Helvetica', Arial, sans-serif;
-	color: #111
-	background: #E7E7E7;
+	font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+	color: #111;
+	background: #ccffff;
 }
 
 a {
@@ -9,7 +9,7 @@ a {
 }
 
 .content {
-	text-align: center
+	text-align: center;
 	padding: 0 15% 20px;
 }
 
